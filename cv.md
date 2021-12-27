@@ -44,6 +44,12 @@ function booleanToString(b){
   }
 }
 ```
+______________________________________________________
+>### PROJECTS
+
+* HTML/CSS Web-page [Treehouse](https://laziza050.github.io/webpages_html_css/)
+* HTML/CSS/JavaScript Web-page [Flower](https://laziza050.github.io/webpages_html_css_js/)
+
 ____________________________________________________
 > ### COURSES
 
