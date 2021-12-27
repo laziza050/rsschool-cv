@@ -3,7 +3,7 @@
 _______________________________________________________________
 >### CONTACT INFORMATION
 \
-**Phone:** +998909552805
+**Phone:** (+998)909552805
 
 **Email:** lyssa_sh@mail.ru
 
@@ -20,7 +20,6 @@ I designed and created 3 websites using HTML and CSS. Upgraded code and design o
 I'm passionate about developing interactive Websites and Web features. I believe that in future I will be a proficient Frontend Developer.
 
 ______________________________________________________
-
 >### SKILLS
 
 * HTML5
@@ -34,27 +33,23 @@ ______________________________________________________
 
 >### CODE SAMPLE
 
-Code **Web-page smooth scrolling** from my project.
+Solution from task on [Codewars](https://www.codewars.com) named: 'Convert a Boolean to a String'
 
 ```
-let scroll_up = document.querySelector('.scroll_up');
-
-scroll_up.addEventListener('click', function () {
-	let scroll_start = setInterval(function () {
-		if (window.pageYOffset <= 0) {
-			clearInterval(scroll_start)
-		}
-		window.scrollBy(0, -10)
-	}, 1);
-
-})
+function booleanToString(b){
+  if (b == true){
+    return b.toString();
+  } else if (b == false) {
+    return b.toString();
+  }
+}
 ```
-_________________________________________________________
+____________________________________________________
 > ### COURSES
 
 * HTML5/CSS3/JavaScript on [Nevotag IT school](https://www.nevotag.uz/)
 
-_________________________________________________________
+______________________________________________________
 
 >### LANGUAGES
 * **English** - Intermediate
@@ -62,4 +57,4 @@ _________________________________________________________
 * **Uzbek** - Native
 * **French** - Basic
 
-_________________________________________________________
+______________________________________________________
