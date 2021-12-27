@@ -1,7 +1,7 @@
 # Laziza Abdullaeva
 ### **Junior frontend developer (beginner)**
 _______________________________________________________________
->## CONTACT INFORMATION
+>### CONTACT INFORMATION
 \
 **Phone:** +998909552805
 
@@ -14,11 +14,10 @@ _______________________________________________________________
 _________________________________________________________________
 >### ABOUT ME
 
-
-    I am a journalist. But one year ago I've become passionate about Web development. Because Web development gives you the opportunity to express yourself creatively on the internet. If you have an idea you would like to try as you discover your skills, try it out.
-    I am an enthusiastic, self-motivated, reliable, responsible and hardworking person. I give my all to any project and always looking ahead to the next task at hand. I am a mature team worker and adaptable to all challenging situations. In any case, I am ready to improve my skills and knowledge.
-    I designed and created 3 websites using HTML and CSS. Upgraded code and design of existing websites with JavaScript.
-    I'm passionate about developing interactive Websites and Web features. I believe that in future I will be a proficient Frontend Developer.
+I am a journalist. But one year ago I've become passionate about Web development. Because Web development gives you the opportunity to express yourself creatively on the internet. If you have an idea you would like to try as you discover your skills, try it out.
+I am an enthusiastic, self-motivated, reliable, responsible and hardworking person. I give my all to any project and always looking ahead to the next task at hand. I am a mature team worker and adaptable to all challenging situations. In any case, I am ready to improve my skills and knowledge.
+I designed and created 3 websites using HTML and CSS. Upgraded code and design of existing websites with JavaScript.
+I'm passionate about developing interactive Websites and Web features. I believe that in future I will be a proficient Frontend Developer.
 
 ______________________________________________________
 
